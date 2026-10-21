@@ -1,0 +1,3 @@
+.env
+storage/rooms/*.json
+storage/logs/*.log

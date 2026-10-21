@@ -1,0 +1,10 @@
+{
+  "name": "Walkie Talkie",
+  "short_name": "Walkie",
+  "description": "Focused, browser-based push-to-talk voice channels.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08131c",
+  "theme_color": "#08131c",
+  "icons": []
+}
